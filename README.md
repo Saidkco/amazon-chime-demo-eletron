@@ -61,6 +61,10 @@ script/deploy.js -r <region> -a <app name> -s <unique stack name> -b <unique buc
 At the end of the script you will see a URL to a download page. Save this link. To run the application locally in Electron run:
 
 ```bash
+yarn install
+```
+
+```bash
 yarn dev
 ```
 
