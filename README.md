@@ -66,7 +66,7 @@ yarn dev
 
 if ```yarn dev``` doesn't work run:
 
-```npm start```
+```bash npm start```
 
 
 Before pushing your commit, ensure that the application works okay in production mode.
