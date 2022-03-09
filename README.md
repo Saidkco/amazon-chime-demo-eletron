@@ -64,6 +64,11 @@ At the end of the script you will see a URL to a download page. Save this link. 
 yarn dev
 ```
 
+if ```yarn dev``` doesn't work run:
+
+```npm start```
+
+
 Before pushing your commit, ensure that the application works okay in production mode.
 
 ```bash
